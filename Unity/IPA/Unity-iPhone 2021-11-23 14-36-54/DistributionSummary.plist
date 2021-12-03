@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Animality.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A04AB77EB6BFD4857A3C491BBC644C69836C2B6B</string>
+				<key>dateExpires</key>
+				<string>2022/5/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A04AB77EB6BFD4857A3C491BBC644C69836C2B6B</string>
+						<key>dateExpires</key>
+						<string>2022/5/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Vuforia.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DP286WVFG8</string>
+						<key>name</key>
+						<string>Fan Wang</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DP286WVFG8.com.wf.Animality</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DP286WVFG8</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>DP286WVFG8.com.wf.Animality</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Animality.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>16995950-d635-4e4b-a784-5006caea209b</string>
+				<key>name</key>
+				<string>aranimal</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DP286WVFG8</string>
+				<key>name</key>
+				<string>Fan Wang</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

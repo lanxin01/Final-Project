@@ -1,0 +1,106 @@
+
+App Thinning Size Report for All Variants of Unity-iPhone
+
+Variant: Animality-013670E8-FE42-445F-AC72-2CE261F41443.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 12.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad4,6, os-version: 11.0], [device: iPad6,11, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,1, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad6,12, os-version: 12.2], [device: iPad4,2, os-version: 11.0], [device: iPad5,4, os-version: 11.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,4, os-version: 12.2], [device: iPad4,5, os-version: 11.0], [device: iPad4,7, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,6, os-version: 11.0], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,7, os-version: 11.0], [device: iPad4,2, os-version: 12.2], [device: iPad4,4, os-version: 12.0], [device: iPad4,8, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad4,6, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,8, os-version: 12.0], [device: iPad5,2, os-version: 12.2], [device: iPad5,1, os-version: 11.0], [device: iPad4,9, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad6,8, os-version: 11.0], [device: iPad4,4, os-version: 12.2], [device: iPad6,12, os-version: 11.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,7, os-version: 12.2], [device: iPad5,1, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad5,2, os-version: 11.0], [device: iPad6,7, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad4,1, os-version: 11.0], [device: iPad4,9, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad7,5, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad4,8, os-version: 11.0], [device: iPad5,3, os-version: 12.2], and [device: iPad4,3, os-version: 11.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-0588E8CF-FAA2-45F9-AE48-97170FAB92DB.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 11.0], [device: iPad8,4, os-version: 12.0], [device: iPad7,3, os-version: 11.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad7,4, os-version: 12.2], [device: iPad6,3, os-version: 11.0], [device: iPad7,2, os-version: 12.0], [device: iPad11,3, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,5, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad6,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,7, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad7,4, os-version: 11.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,2, os-version: 11.0], [device: iPad6,4, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad7,1, os-version: 12.2], [device: iPad8,2, os-version: 12.0], [device: iPad8,8, os-version: 12.2], and [device: iPad8,3, os-version: 12.2]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-0C712777-C293-4F3B-A136-74DDD26F2AF4.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-1129EDCA-66C8-40DF-8B20-6C9809C186DB.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 12.2], [device: iPhone10,2, os-version: 11.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,6, os-version: 12.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,6, os-version: 12.0], and [device: iPhone10,6, os-version: 11.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-1F080F45-6BF5-49DA-9B2B-880D990CEE32.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2] and [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-39624523-7B9C-4545-9375-ECFAFB321071.ipa
+Supported variant descriptors: [device: iPad8,2, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad7,3, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad6,4, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad11,4, os-version: 14.0], and [device: iPad8,7, os-version: 13.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-5E95A305-BEBE-4247-96B4-5909251EF27F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-8948C3EB-CE80-4C78-AADC-889B5B5A68B3.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], and [device: iPhone12,8, os-version: 13.0]
+App + On Demand Resources size: 44.6 MB compressed, 138.2 MB uncompressed
+App size: 44.6 MB compressed, 138.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-BBD79FFF-3792-45B3-898A-CB8B6EB6A5EC.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 11.0], [device: iPhone8,4, os-version: 11.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,4, os-version: 12.2], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,1, os-version: 11.0], [device: iPhone6,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 11.0], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 11.0], [device: iPhone8,1, os-version: 12.0], and [device: iPhone8,1, os-version: 11.0]
+App + On Demand Resources size: 44.6 MB compressed, 138.2 MB uncompressed
+App size: 44.6 MB compressed, 138.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-C6CA9F63-C609-4758-92CB-EE1B3AEAA4EE.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,2, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,7, os-version: 13.0], and [device: iPad5,2, os-version: 14.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-C7B1477F-0492-495F-8759-F4B22F1A1CEA.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 12.0], [device: iPhone9,1, os-version: 11.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,1, os-version: 12.0], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 44.6 MB compressed, 138.2 MB uncompressed
+App size: 44.6 MB compressed, 138.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-D4C677EB-10D5-4D37-B5F7-1BB70C6D92A9.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], and [device: iPhone8,1, os-version: 13.0]
+App + On Demand Resources size: 44.6 MB compressed, 138.2 MB uncompressed
+App size: 44.6 MB compressed, 138.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-F950E566-CFDA-4C8A-9ECB-AA8C654EABE4.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], and [device: iPhone13,3, os-version: 14.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality-F981BA47-6A1A-442E-8AFD-C103BF33FF5D.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0], [device: iPhone7,1, os-version: 12.2], [device: iPhone8,2, os-version: 12.2], [device: iPhone7,1, os-version: 12.0], [device: iPhone8,2, os-version: 11.0], and [device: iPhone7,1, os-version: 11.0]
+App + On Demand Resources size: 44.7 MB compressed, 138.3 MB uncompressed
+App size: 44.7 MB compressed, 138.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Animality.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 45.4 MB compressed, 139.1 MB uncompressed
+App size: 45.4 MB compressed, 139.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
