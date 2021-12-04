@@ -16,8 +16,6 @@ The algorithm used for the image feature recognition technique in this project i
 
 Augmented reality 'augments' reality by superimposing computer-generated virtual objects, scenes or system cues onto the real world. It augments the real world by superimposing computer-generated virtual objects or non-geometric information about real objects on top of real-world scenes. The real environment and virtual objects are superimposed on the same image or space in real time. At the same time, the interaction appears more natural as the connection to the real world is not severed.
 
-Translated with www.DeepL.com/Translator (free version)
-
 4  Project Outcomes
 
 This project is based on the release of an application in apk format for the ios platform. The released apk file will be sent to the mobile phone, which can be downloaded and installed to test the results of its use.
