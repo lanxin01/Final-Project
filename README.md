@@ -15,3 +15,5 @@ The project is based on Unity3D + Vuforia augmented reality technology to develo
 The algorithm used for the image feature recognition technique in this project is AKAZE (accelerated-KAZE). The AKAZE feature extraction algorithm based on the construction of a non-linear scale space is highly accurate and more optimised. The whole matching process is based on feature extraction plus kmeans tree for approximate nearest neighbour matching, and then the key pairs are mapped for uni-responsiveness and finally scored according to the inlier point set to determine the final target. There is more than one algorithm used for image recognition, including how to determine image features to get comparison information, and tracking recognition based on image features, for example.
 
 4  Project Outcomes
+
+This project is based on the release of an application in apk format for the ios platform. The released apk file will be sent to the mobile phone, which can be downloaded and installed to test the results of its use.
