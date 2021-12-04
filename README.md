@@ -14,6 +14,10 @@ The project is based on Unity3D + Vuforia augmented reality technology to develo
 
 The algorithm used for the image feature recognition technique in this project is AKAZE (accelerated-KAZE). The AKAZE feature extraction algorithm based on the construction of a non-linear scale space is highly accurate and more optimised. The whole matching process is based on feature extraction plus kmeans tree for approximate nearest neighbour matching, and then the key pairs are mapped for uni-responsiveness and finally scored according to the inlier point set to determine the final target. There is more than one algorithm used for image recognition, including how to determine image features to get comparison information, and tracking recognition based on image features, for example.
 
+Augmented reality 'augments' reality by superimposing computer-generated virtual objects, scenes or system cues onto the real world. It augments the real world by superimposing computer-generated virtual objects or non-geometric information about real objects on top of real-world scenes. The real environment and virtual objects are superimposed on the same image or space in real time. At the same time, the interaction appears more natural as the connection to the real world is not severed.
+
+Translated with www.DeepL.com/Translator (free version)
+
 4  Project Outcomes
 
 This project is based on the release of an application in apk format for the ios platform. The released apk file will be sent to the mobile phone, which can be downloaded and installed to test the results of its use.
