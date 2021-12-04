@@ -1,6 +1,6 @@
 # Augmented Reality App for Wild Animal Mental Emotions –– Animality
 
-Video link:
+Video link: https://youtu.be/lFrE6MkDrZY
 
 1  Project Description
 
