@@ -19,3 +19,5 @@ Augmented reality 'augments' reality by superimposing computer-generated virtual
 4  Project Outcomes
 
 This project is based on the release of an application in apk format for the ios platform. The released apk file will be sent to the mobile phone, which can be downloaded and installed to test the results of its use.
+
+![images](https://github.com/lanxin01/Final-Project/blob/main/Project%20Images/Outcome/IMG_5974.PNG)
