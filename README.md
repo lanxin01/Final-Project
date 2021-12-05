@@ -22,3 +22,4 @@ This project is based on the release of an application in apk format for the ios
 
 ![images](https://github.com/lanxin01/Final-Project/blob/main/Project%20Images/Outcome/IMG_6010.JPG)
 ![images](https://github.com/lanxin01/Final-Project/blob/main/Project%20Images/Outcome/IMG_6011.JPG)
+![images]（https://github.com/lanxin01/Final-Project/blob/main/Project%20Images/Outcome/IMG_6012.JPG）
